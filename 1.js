@@ -13,3 +13,8 @@ function test2()
 
 }
 test2()
+
+function test3(){
+    return 1;
+}
+test3();
